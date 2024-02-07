@@ -2,3 +2,6 @@
 envs.py
 parallel_env.py
 utils.py
+*.zip
+HuggingFace-RLCourse/ml-agents/
+methods-mindmap.pdf
