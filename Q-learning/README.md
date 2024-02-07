@@ -44,10 +44,6 @@ Q-Learning has diverse applications across various domains, including:
 - **Robotics**: Q-Learning can be used to train robots to navigate environments and perform tasks autonomously.
 - **Optimization**: Q-Learning has applications in optimization problems, such as route planning and resource allocation.
 
-## Further Reading
-
-For more in-depth information on Q-Learning and its variants, consider exploring academic papers, online tutorials, and textbooks on reinforcement learning.
-
 ## Implementation Example
 
 Check out the [Q-Learning implementation](Q_Learning_Implementation.ipynb) notebook in this repository for a practical example of Q-Learning applied to a simple environment.
