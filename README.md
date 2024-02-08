@@ -102,7 +102,7 @@ _I will endeavour to catalog all the resources I can though I may inadvertently 
 <br>
 <center> __Methods Mind Map__
 
-![See Methods Mind Map](images\methods-mindmap.png)</center>
+![See Methods Mind Map](images/methods-mindmap.png)</center>
 
 
 
@@ -118,7 +118,7 @@ Happy Reinforcement Learning!
 
 
 ### Certifications Earned
-![1](images\udemy-RL-cert.png)
+![1](images/udemy-RL-cert.png)
 
-![2](images\HFDRL-cert.png)
+![2](images/HFDRL-cert.png)
 
