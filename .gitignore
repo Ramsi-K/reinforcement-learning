@@ -5,3 +5,4 @@ utils.py
 *.zip
 HuggingFace-RLCourse/ml-agents/
 methods-mindmap.pdf
+*.pth
