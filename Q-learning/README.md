@@ -19,6 +19,7 @@ $\text{Q}(s, a) = \text{Q}(s, a) + \alpha \left[ \text{reward} + \gamma \max(\te
 The Q-table is a data structure used to store the Q-values for all possible state-action pairs. It is typically represented as a two-dimensional array or dictionary, where the rows correspond to states and the columns correspond to actions.
 
 Where:
+
 - $Q(s, a)$ is the Q-value for state-action pair (s, a).
 - α (alpha) is the learning rate, controlling the weight given to new information.
 - γ (gamma) is the discount factor, determining the importance of future rewards.
